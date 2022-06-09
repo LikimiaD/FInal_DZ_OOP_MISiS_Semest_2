@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v2ix6kqhxSX62S4JAC8BS2sISiZ/WWkrS+hKOD0Qdap27SYSOvjGUpu35dFbq/HfNUsN7NfavZpSQmNCxlav5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\likim\\source\\repos\\DZ\\DZ\\DZ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\likim\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.116\\stub.system.data.sqlite.core.netstandard.1.0.116.nupkg.sha512",
+    "C:\\Users\\likim\\.nuget\\packages\\system.data.sqlite.core\\1.0.116\\system.data.sqlite.core.1.0.116.nupkg.sha512"
+  ],
+  "logs": []
+}
